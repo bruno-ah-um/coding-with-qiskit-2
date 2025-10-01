@@ -1,2 +1,1 @@
-# -coding-with-qiskit-2
-Material for Coding with Qiskit 2.x
+The notebooks used in Coding with Qiskit 1.x on the Qiskit YouTube channel. But running on Qiskit 2.
